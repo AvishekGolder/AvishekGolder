@@ -1,5 +1,7 @@
 ### Hey Guys, I am Avishek Golder! 👋
 
+https://raw.githubusercontent.com/ProjectSakura/ProjectSakura.github.io/master/loading.gif
+
 
 - 🔭 I’m currently working on python...
 - 🌱 I’m currently learning Java...
