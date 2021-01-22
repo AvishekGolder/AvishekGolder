@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Twitter**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about ***anything***
 
 - 📫 How to reach me **avishekgolder72@gmail.com**
 
