@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 👯 I’m looking to collaborate on **Twitter**
+- 👯 I’m looking to collaborate on **Open Source**
 
 - 💬 Ask me about ***anything***
 
