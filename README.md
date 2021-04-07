@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Avishek Golder</h1>
 <h3 align="center">Competitive Programmer | Desktop Developer | Backend Developer</h3>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Backend Systems**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
