@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avishek Golder</h1>
-<h3 align="center">A passionCompetitive Programmer | Desktop Developer | Backend Developerate frontend developer from India</h3>
+<h3 align="center">Competitive Programmer | Desktop Developer | Backend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avishekgolder&label=Profile%20views&color=0e75b6&style=flat" alt="avishekgolder" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avishekgolder" alt="avishekgolder" /></a> </p>
 
 - 🔭 I’m currently working on **Backend Systems**
 
@@ -30,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avishekgolder&show_icons=true&locale=en&layout=compact" alt="avishekgolder" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avishekgolder&show_icons=true&locale=en" alt="avishekgolder" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avishekgolder&" alt="avishekgolder" /></p>
