@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Backend Systems**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Javascript**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
