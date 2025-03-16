@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Avishek Golder</h1>
 <h3 align="center">Developer | Coder | Video Editor</h3>
 
-- 🔭 I’m currently working on **Blockchain**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
