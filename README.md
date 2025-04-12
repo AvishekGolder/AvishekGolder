@@ -12,6 +12,3 @@
 - 📫 How to reach me **avishekgolder72@gmail.com**
 
 - ⚡ Fun fact **I am a lazy boy**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avishekgolder&show_icons=true&locale=en&layout=compact" alt="avishekgolder" /></p>
-
